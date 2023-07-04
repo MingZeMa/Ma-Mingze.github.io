@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://Ma-Mingze.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: MingZeMa # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
